@@ -4,7 +4,7 @@ import image from '../images/sreepathi.jpg'
 export const headerData = {
     name: 'Sreepathi R',
     title: "MERN Stack Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption:"A MERN Stack Developer with Strong problem-solving and analytical skills with a commitment to continuous learning and Passionate towards new creation, keeping myself up to date on industry trends.",
     image: image,
     resumePdf: resume
 }
